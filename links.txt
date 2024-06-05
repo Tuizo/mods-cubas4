@@ -34,3 +34,4 @@ https://cdn.modrinth.com/data/ResbpANg/versions/IV4nX7By/createoreexcavation-fab
 https://cdn.modrinth.com/data/kU1G12Nn/versions/sf4kfWdG/createaddition-fabric%2B1.20.1-1.2.1c.jar
 https://cdn.modrinth.com/data/reiRz8zO/versions/j8lQm5t2/creatediselgenerators-2.1.3.jar
 https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar
+https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar
