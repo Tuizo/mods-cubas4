@@ -22,10 +22,9 @@ https://cdn.modrinth.com/data/uy4Cnpcm/versions/fy89ff5i/Bookshelf-Fabric-1.20.1
 https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar
 https://cdn.modrinth.com/data/yoJJjRRE/versions/jpRIGRtD/ClearDespawn-fabric-1.20.2-1.1.15.jar
 https://cdn.modrinth.com/data/8bOImuGU/versions/boSI7tyG/logical_zoom-0.0.20.jar
-https://cdn.modrinth.com/data/23nOkgI0/versions/mLRz23eV/create_so-1.6%2B1.20.1.jar
 https://cdn.modrinth.com/data/ResbpANg/versions/IV4nX7By/createoreexcavation-fabric-1.20-1.4.6.jar
-https://cdn.modrinth.com/data/kU1G12Nn/versions/sf4kfWdG/createaddition-fabric%2B1.20.1-1.2.1c.jar
-https://cdn.modrinth.com/data/reiRz8zO/versions/j8lQm5t2/creatediselgenerators-2.1.3.jar
+https://cdn.modrinth.com/data/kU1G12Nn/versions/J3uh8pqe/createaddition-fabric%2B1.20.1-1.2.3.jar
+https://cdn.modrinth.com/data/reiRz8zO/versions/cgeIYny5/createdieselgenerators-2.1.4.jar
 https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar
 https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar
 https://cdn.modrinth.com/data/Z2mXHnxP/versions/FL88RLRu/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar
