@@ -56,4 +56,3 @@ https://cdn.modrinth.com/data/hB899VmG/versions/AlbUxt2P/exposure-1.20.1-1.6.0-f
 https://cdn.modrinth.com/data/sk9knFPE/versions/d6aWp117/rhino-fabric-2001.2.2-build.18.jar
 https://cdn.modrinth.com/data/umyGl7zF/versions/j6kmkTxA/kubejs-fabric-2001.6.5-build.7.jar
 https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar
-https://cdn.modrinth.com/data/VSNURh3q/versions/QZ5cUNXs/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.5.jar
