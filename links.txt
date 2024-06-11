@@ -59,3 +59,4 @@ https://cdn.modrinth.com/data/HSfsxuTo/versions/XfMVshu1/explorify-v1.4.0.jar
 https://mediafilez.forgecdn.net/files/4592/954/offlineskins-1.20.1-v1.jar
 https://cdn.modrinth.com/data/g8w1NapE/versions/MNgY2xFj/fabrictailor-2.1.2.jar
 https://cdn.modrinth.com/data/GWp4jCJj/versions/HdgdrH1E/createbigcannons-fabric-1.20.1-0.5.4.jar
+https://cdn.modrinth.com/data/zV5r3pPn/versions/iDmr8BMN/skinlayers3d-fabric-1.6.5-mc1.20.1.jar
