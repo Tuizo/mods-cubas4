@@ -1,5 +1,5 @@
 https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar
-https://cdn.modrinth.com/data/hqQqvaa4/versions/g3xrYsxM/puffish_skills-0.12.2-1.20-forge.jar
+https://cdn.modrinth.com/data/hqQqvaa4/versions/f7O8dT0T/puffish_skills-0.12.2-1.20-fabric.jar
 https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2%2B1.20.1.jar
 https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar
 https://cdn.modrinth.com/data/QRYqnI15/versions/JqrnY7yM/Scout-2.0.4%2B1.20.1.jar
