@@ -36,7 +36,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-
 https://cdn.modrinth.com/data/GmjmRQ0A/versions/fIWeey09/sliceanddice-fabric-3.2.1.jar
 https://cdn.modrinth.com/data/F8BQNPWX/versions/dMGBsRgz/naturalist-fabric-4.0.3-1.20.1.jar
 https://cdn.modrinth.com/data/7vxePowz/versions/5dZdVy3m/FarmersDelight-1.20.1-2.1.1%2Brefabricated.jar
-https://cdn.modrinth.com/data/8BmcQJ2H/versions/O6hsDmwQ/geckolib-fabric-1.20.1-4.4.5.jar
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/9VG3hx3F/geckolib-fabric-1.20.1-4.4.9.jar
 https://cdn.modrinth.com/data/9jxwkYQL/versions/ZNDDpG9k/sophisticatedcore-0.5.109%2Bmc1.20.1-SNAPSHOT-build.76.jar
 https://cdn.modrinth.com/data/AANobbMI/versions/mhZtY2lR/sodium-fabric-0.5.8%2Bmc1.20.1.jar
 https://cdn.modrinth.com/data/ouNrBQtq/versions/uN07Qzsk/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.76.jar
