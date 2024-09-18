@@ -123,8 +123,6 @@ https://cdn.modrinth.com/data/g8w1NapE/versions/MNgY2xFj/fabrictailor-2.1.2.jar
 https://cdn.modrinth.com/data/GWp4jCJj/versions/HdgdrH1E/createbigcannons-fabric-1.20.1-0.5.4.jar
 https://cdn.modrinth.com/data/zV5r3pPn/versions/iDmr8BMN/skinlayers3d-fabric-1.6.5-mc1.20.1.jar
 https://mediafilez.forgecdn.net/files/5643/96/pointblank-fabric-1.20.1-1.6.8.jar
-https://mediafilez.forgecdn.net/files/5621/380/tacz-fabric-1.20.1-1.0.2-hotfix2-release.jar
-https://mediafilez.forgecdn.net/files/4583/0/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar
 https://mediafilez.forgecdn.net/files/4587/215/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar
 https://cdn.modrinth.com/data/gu7yAYhd/versions/Zoo9N9Dv/cc-tweaked-1.20.1-fabric-1.113.1.jar
 https://cdn.modrinth.com/data/fXt291FO/versions/57pJUQQM/cccbridge-mc1.20.1-fabric-v1.6.2b.jar
