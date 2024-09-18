@@ -9,7 +9,7 @@ https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1
 https://cdn.modrinth.com/data/Jdbbtt0i/versions/ExoJ4bOE/CreateNumismatics-1.0.6%2Bfabric-mc1.20.1.jar
 https://cdn.modrinth.com/data/btq68HMO/versions/MX3EE060/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar
 https://cdn.modrinth.com/data/E9MuZ1zB/versions/fHsTW7eS/create_power_loader-1.5.3-mc1.20.1-fabric.jar
-https://cdn.modrinth.com/data/NcUtCpym/versions/szULGs3b/XaerosWorldMap_1.38.8_Fabric_1.20.jar
+https://cdn.modrinth.com/data/NcUtCpym/versions/gJ5N7s4J/XaerosWorldMap_1.39.0_Fabric_1.20.jar
 https://cdn.modrinth.com/data/Wnxd13zP/versions/hefSwtn6/Clumps-fabric-1.20.1-12.0.0.4.jar
 https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar
 https://cdn.modrinth.com/data/nmDcB62a/versions/o1xUnPS2/modernfix-forge-5.18.0%2Bmc1.20.1.jar
