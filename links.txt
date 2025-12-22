@@ -22,7 +22,6 @@ https://cdn.modrinth.com/data/uy4Cnpcm/versions/fy89ff5i/Bookshelf-Fabric-1.20.1
 https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar
 https://cdn.modrinth.com/data/yoJJjRRE/versions/jpRIGRtD/ClearDespawn-fabric-1.20.2-1.1.15.jar
 https://cdn.modrinth.com/data/8bOImuGU/versions/boSI7tyG/logical_zoom-0.0.20.jar
-https://cdn.modrinth.com/data/ResbpANg/versions/IV4nX7By/createoreexcavation-fabric-1.20-1.4.6.jar
 https://cdn.modrinth.com/data/kU1G12Nn/versions/J3uh8pqe/createaddition-fabric%2B1.20.1-1.2.3.jar
 https://cdn.modrinth.com/data/reiRz8zO/versions/cgeIYny5/createdieselgenerators-2.1.4.jar
 https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar
